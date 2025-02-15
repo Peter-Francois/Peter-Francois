@@ -21,7 +21,7 @@
 *A personal project of e-shopping for a professional handcrafter.*  
 🛠️ *Tech: Python, Django, HTML, CSS, JS, SQLite*  
 
-### ⚡ [Andy Website]((https://github.com/Peter-Francois/Andy_website)  
+### ⚡ [Andy Website](https://github.com/Peter-Francois/Andy_website)  
 *a professional showcase site for an electrician.*  
 🛠️ *Tech: HTML, CSS, JS*  
 
