@@ -17,9 +17,10 @@
 ---
 
 ## 📌 Featured Projects  
-### 🔥 [E-Shopping_Damien](https://github.com/Peter-Francois/E-shopping_Damien)  
+### 🔥 [Leather work in traveling DB](https://www.leatherworkintravelingdb.com/)  
 *A personal project of e-shopping for a professional handcrafter.*  
 🛠️ *Tech: Python, Django, HTML, CSS, JS, SQLite*  
+🔗 Repo GitHub: [Leather work in traveling DB](https://github.com/Peter-Francois/Leather-work-in-traveling-DB)
 
 ### ⚡ [Andy Website](https://github.com/Peter-Francois/Andy_website)  
 *a professional showcase site for an electrician.*  
