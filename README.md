@@ -23,7 +23,7 @@
 🔗 Repo GitHub: [Leather work in traveling DB](https://github.com/Peter-Francois/Leather-work-in-traveling-DB)
 
 ### ⚡ [Andy Website](https://github.com/Peter-Francois/Andy_website)  
-*a professional showcase site for an electrician.*  
+*A professional showcase site for an electrician.*  
 🛠️ *Tech: HTML, CSS, JS*  
 
 ### 🎵 [Mr_Beat](https://github.com/Peter-Francois/Mr_Beat)  
