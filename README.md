@@ -32,7 +32,7 @@ Repo GitHub: [Leather work in traveling DB](https://github.com/Peter-Francois/Le
 ---
 
 ## 📫 Me contacter  
-Prenez un créneau ici : [Calendly](https://calendly.com/contact-peterfrancois/30min)  
+Prenez un créneau ici : [Calendly](https://calendly.com/contact-peterfrancois/)  
 Plus de détail sur mon profil : [LinkedIn](https://www.linkedin.com/in/peterfrancois/)  
 Email: contact@peterfrancois.dev
 
