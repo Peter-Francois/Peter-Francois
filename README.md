@@ -1,40 +1,42 @@
-# 🏃‍♂️‍➡️François Peter => Full-stack Developer
+# 🏃‍♂️‍➡️ François Peter — Full-stack Developer
 
-Je conçois des applications web structurées, maintenables et documentées, en privilégiant des architectures claires et des pratiques professionnelles (revues de code, tests, CI/CD).
+I design structured, maintainable, and well-documented web applications, prioritizing clear architectures and professional practices (code reviews, testing, CI/CD).
 
 **TypeScript • React • NestJS • Docker • Prisma • CI/CD**
 
-> 🔗 Une partie de mon travail (branches, revues de code et CI/CD) est disponible sur [GitLab](https://git.alt-tools.tech/peter-francois)
+> 🔗 Part of my work (branches, code reviews, and CI/CD) is available on [GitLab](https://git.alt-tools.tech/peter-francois)
 
 ---
 
-## 🗃️ Projets mis en avant
+## 🗃️ Featured Projects
 
 ### **CNP-Connect**
-Application web de communication interne développée en immersion professionnelle.  
-- **Stack :** React • NestJS • Prisma • JWT • Docker  
-- **Architecture :** multicouche (3-tiers)  
-- **DevOps :** Docker Compose • DockerFile • GitLab CI/CD  
-- **Modélisation :** MERISE (MCD/MLD/MPD) & UML
+An internal communication web application developed in a professional immersion context.  
+- **Stack:** React • NestJS • Prisma • JWT • Docker  
+- **Architecture:** multi-layer (3-tier)  
+- **DevOps:** Docker Compose • Dockerfile • GitLab CI/CD  
+- **Modeling:** MERISE (MCD/MLD/MPD) & UML  
 
->🔗 **Démo en ligne** (accès restreint) : [CNP-Connect](https://cnp-connect.duckdns.org/)   
->(Application nécessitant un compte, contactez-moi si vous souhaitez un accès de démonstration.)
+> 🔗 **Online Demo (restricted access):** [CNP-Connect](https://cnp-connect.duckdns.org/)  
+> *(Requires an account — contact me if you would like demo access.)*  
 >
->🗄️**Repo GitHub** : [CNP-Connect](https://cnp-connect.duckdns.org/)   
-
-### **LeatherWorkInTravellingDB**
-Projet personnel de E-Commerce pour un créateur en maroquinerie et macramé.  
-- **Stack :** Django • Python • Stripe • SQLite
-- **Architecture :** MTV (Model–Template–View)  
-- **Approche :** projet mené en autonomie et amélioré de manière itérative à partir des retours du client.
-
->🔗 **Site en production** : [Leatherworkintravelingdb](https://www.leatherworkintravelingdb.com/)   
->
->🗄️**Repo GitHub** : [peter-francois/leatherwork-in-traveling-db](https://github.com/peter-francois/leatherwork-in-traveling-db)   
+> 🗄️ **GitHub Repo:** [CNP-Connect](https://cnp-connect.duckdns.org/)
 
 ---
 
-## 🛠️ Technologies clés
+### **LeatherWorkInTravellingDB**
+Personal e-commerce project for a leather goods and macramé artisan.  
+- **Stack:** Django • Python • Stripe • SQLite  
+- **Architecture:** MTV (Model–Template–View)  
+- **Approach:** independently developed and iteratively improved based on client feedback.  
+
+> 🔗 **Live website:** [Leatherworkintravelingdb](https://www.leatherworkintravelingdb.com/)  
+>
+> 🗄️ **GitHub Repo:** [peter-francois/leatherwork-in-traveling-db](https://github.com/peter-francois/leatherwork-in-traveling-db)
+
+---
+
+## 🛠️ Key Technologies
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -55,7 +57,7 @@ Projet personnel de E-Commerce pour un créateur en maroquinerie et macramé.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?style=flat&logo=gitlab&logoColor=white)
 
-**Outils & Collaboration**  
+**Tools & Collaboration**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![YouTrack](https://img.shields.io/badge/YouTrack-0F2A44?style=flat&logo=jetbrains&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
@@ -64,12 +66,12 @@ Projet personnel de E-Commerce pour un créateur en maroquinerie et macramé.
 
 ---
 
-## 📫 Me contacter  
-Prenez un créneau ici : [Calendly](https://calendly.com/contact-peterfrancois/)  
-Plus de détail sur mon profil : [LinkedIn](https://www.linkedin.com/in/peterfrancois/)  
-Mon CV en ligne : [Notion](https://dent-porkpie-6f0.notion.site/D-veloppeur-web-full-stack-2bcaef03142280dd9ffad5f3ff6f0bc4?pvs=74)  
+## 📫 Contact Me  
+Book a time here: [Calendly](https://calendly.com/contact-peterfrancois/)  
+More details on my profile: [LinkedIn](https://www.linkedin.com/in/peterfrancois/)  
+My online CV: [Notion](https://dent-porkpie-6f0.notion.site/D-veloppeur-web-full-stack-2bcaef03142280dd9ffad5f3ff6f0bc4?pvs=74)  
 Email: contact@peterfrancois.dev
 
 ---
 
-✍️ *"Always do your best" - Inspired by The Four Agreements*  
+✍️ *“Always do your best” — Inspired by The Four Agreements*
